@@ -1,0 +1,28 @@
+body {
+}
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0%;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin: 0;
+}
+
+button {
+    background-color: #A9A9A9;
+    color: white;
+    margin: 5px;
+    border-radius: 30%;
+}
+
+input {
+    border: 2px solid #A9A9A9;
+    border-radius: 10%;
+}
